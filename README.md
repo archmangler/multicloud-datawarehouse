@@ -1,5 +1,5 @@
-#Multi Cloud Data Ware House PoC
-================================
+Multi Cloud Data Ware House PoC
+===============================
 
 A proof of concept project to demonstrate integrated datawarehouse (data lake) implementation across multiple clouds:
 
