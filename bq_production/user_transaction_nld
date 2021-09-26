@@ -1,0 +1,8 @@
+{"user_id":"896","transaction_id":"12568001","product_id":"1001","payment_date":"2021-03-02","total_cost":19.99}
+{"user_id":"896","transaction_id":"12568002","product_id":"1002","payment_date":"2021-03-02","total_cost":29.99}
+{"user_id":"896","transaction_id":"12568003","product_id":"1003","payment_date":"2021-03-02","total_cost":39.99}
+{"user_id":"896","transaction_id":"12568004","product_id":"2001","payment_date":"2021-03-02","total_cost":14.99}
+{"user_id":"896","transaction_id":"12568005","product_id":"8881","payment_date":"2021-03-03","total_cost":42.99}
+{"user_id":"896","transaction_id":"12568006","product_id":"9020","payment_date":"2021-03-03","total_cost":80.99}
+{"user_id":"896","transaction_id":"12578004","product_id":"3040","payment_date":"2021-03-03","total_cost":34.99}
+{"user_id":"896","transaction_id":"12588005","product_id":"3041","payment_date":"2021-03-08","total_cost":34.99}

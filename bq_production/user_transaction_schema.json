@@ -1,0 +1,28 @@
+
+[
+    {
+        "name": "user_id",
+        "type": "INT64",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "product_id",
+        "type": "INT64",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "transaction_id",
+        "type": "INT64",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "payment_date",
+        "type": "DATE",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "total_cost",
+        "type": "FLOAT64",
+        "mode": "NULLABLE"
+    }
+]
